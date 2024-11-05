@@ -1,0 +1,14 @@
+C:\Users\kamran.allahverdi\Desktop\C#\my-first-app\bin\Debug\net8.0\my-first-app.exe
+C:\Users\kamran.allahverdi\Desktop\C#\my-first-app\bin\Debug\net8.0\my-first-app.deps.json
+C:\Users\kamran.allahverdi\Desktop\C#\my-first-app\bin\Debug\net8.0\my-first-app.runtimeconfig.json
+C:\Users\kamran.allahverdi\Desktop\C#\my-first-app\bin\Debug\net8.0\my-first-app.dll
+C:\Users\kamran.allahverdi\Desktop\C#\my-first-app\bin\Debug\net8.0\my-first-app.pdb
+C:\Users\kamran.allahverdi\Desktop\C#\my-first-app\obj\Debug\net8.0\my-first-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran.allahverdi\Desktop\C#\my-first-app\obj\Debug\net8.0\my-first-app.AssemblyInfoInputs.cache
+C:\Users\kamran.allahverdi\Desktop\C#\my-first-app\obj\Debug\net8.0\my-first-app.AssemblyInfo.cs
+C:\Users\kamran.allahverdi\Desktop\C#\my-first-app\obj\Debug\net8.0\my-first-app.csproj.CoreCompileInputs.cache
+C:\Users\kamran.allahverdi\Desktop\C#\my-first-app\obj\Debug\net8.0\my-first-app.dll
+C:\Users\kamran.allahverdi\Desktop\C#\my-first-app\obj\Debug\net8.0\refint\my-first-app.dll
+C:\Users\kamran.allahverdi\Desktop\C#\my-first-app\obj\Debug\net8.0\my-first-app.pdb
+C:\Users\kamran.allahverdi\Desktop\C#\my-first-app\obj\Debug\net8.0\my-first-app.genruntimeconfig.cache
+C:\Users\kamran.allahverdi\Desktop\C#\my-first-app\obj\Debug\net8.0\ref\my-first-app.dll
